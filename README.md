@@ -6,6 +6,7 @@ TOP Project: Recipes
 Create a few HTML pages with some favorite food recipes.
 
 Project goal: practice using basic HTML elements and tags including:
+
 Boilerplate
 
 Text elements: paragraphs, headings, bold and italicized text
