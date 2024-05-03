@@ -12,6 +12,7 @@ Lists: ordered and unordered
 Links and images
 
 In the process of completing this project, practice the following:
+
 Basic Git commands from the command line
 
 Git workflow: git add, commit, push plus git status, log, and shortlog
