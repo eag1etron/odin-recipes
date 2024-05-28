@@ -1,5 +1,9 @@
 # odin-recipes
 
+2024-05-27
+Create Git branch odin-recipes_CSS.
+Add CSS to previous HTML only recipe project.
+
 2024-04-21
 TOP Project: Recipes
 
