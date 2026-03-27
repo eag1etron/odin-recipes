@@ -1,0 +1,9 @@
+// workspace settings ( ./<proj-dir/.vscode/settings.json )
+
+{
+  "editor.stickyScroll.enabled": false,
+  "editor.occurrencesHighlight": "singleFile", // off, singleFile, or multiFile
+  "editor.selectionHighlight": true,
+
+  "cSpell.words": ["crème", "fraîche", "panko", "Ponzu"]
+}
